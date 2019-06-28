@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mysuite" duration-ms="39411" started-at="2019-06-26T10:57:39Z" finished-at="2019-06-26T10:58:19Z">
+    <groups>
+    </groups>
+    <test name="myTest" duration-ms="39411" started-at="2019-06-26T10:57:39Z" finished-at="2019-06-26T10:58:19Z">
+      <class name="myPack.Deepti">
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:myPack.Deepti@1ba5a14]" name="addEmp" duration-ms="30230" started-at="2019-06-26T16:27:39Z" finished-at="2019-06-26T16:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="addLocation()[pri:0, instance:myPack.Deepti@1ba5a14]" name="addLocation" duration-ms="1" started-at="2019-06-26T16:28:10Z" finished-at="2019-06-26T16:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLocation -->
+        <test-method status="PASS" signature="deleteEmp()[pri:0, instance:myPack.Deepti@1ba5a14]" name="deleteEmp" duration-ms="0" started-at="2019-06-26T16:28:10Z" finished-at="2019-06-26T16:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmp -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:myPack.Deepti@1ba5a14]" name="editEmp" duration-ms="0" started-at="2019-06-26T16:28:10Z" finished-at="2019-06-26T16:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:myPack.Deepti@1ba5a14]" name="verifyLogin" duration-ms="9140" started-at="2019-06-26T16:28:10Z" finished-at="2019-06-26T16:28:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="editLocation()[pri:0, instance:myPack.Deepti@1ba5a14]" name="editLocation" duration-ms="0" started-at="2019-06-26T16:28:10Z" finished-at="2019-06-26T16:28:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLocation -->
+      </class> <!-- myPack.Deepti -->
+    </test> <!-- myTest -->
+  </suite> <!-- mysuite -->
+</testng-results>

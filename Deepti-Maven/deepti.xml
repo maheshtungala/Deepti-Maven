@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="mysuite">
+<test name="myTest">
+
+<classes>
+
+  <class name="myPack.Deepti"/>
+
+</classes>
+
+</test>
+</suite>
